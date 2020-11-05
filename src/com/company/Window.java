@@ -18,8 +18,7 @@ public class Window<T> extends Number implements Mirrow {
 
     @Override
     public void print() {
-        System.out.println("number"+getNumber());
-
+        System.out.println(  "number   "  +  getNumber());
     }
 
     @Override
