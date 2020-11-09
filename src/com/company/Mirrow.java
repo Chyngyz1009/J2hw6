@@ -1,8 +1,7 @@
 package com.company;
 
-public interface Mirrow  {
+public interface Mirrow <T>  {
 
      void print();
-
 
 }
